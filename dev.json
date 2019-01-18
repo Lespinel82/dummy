@@ -1,0 +1,5 @@
+security:
+    publicKeyURL: https://pkm-isb-estructurales-sgt-dev.appls.cans.paas.cloudcenter.corp:443/v1/publicKey/stsintrasgtdes
+logging:
+    level:
+      root: DEBUG
